@@ -1,0 +1,16 @@
+src/*~
+src/_*
+src/*.o
+src/*.d
+src/*.asm
+src/*.sym
+src/*.img
+src/vectors.S
+src/bootblock
+src/entryother
+src/initcode
+src/initcode.out
+src/kernel
+src/kernelmemfs
+src/mkfs
+src/.gdbinit
